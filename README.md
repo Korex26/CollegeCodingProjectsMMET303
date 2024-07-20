@@ -1,3 +1,7 @@
+ABOUT
+- This repository contains an overview of my coding projects from my MMET303 coding focused class at Texas A&M.
+- Each folder contains a prompt file with all the project prompts and their respective file(s).
+
 CLASS BACKGROUND INFORMATION
 - MMET 303 Fluid Mechanics and Power.
 - Credits 4. 3 Lecture Hours. 2 Lab Hours. 
